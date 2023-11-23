@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Santander.Coding", "Santander.Coding\Santander.Coding.csproj", "{81C77A91-7D89-400E-BD7B-4BD40F178911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Santander.Coding.Tests", "Santander.Coding.Tests\Santander.Coding.Tests.csproj", "{CF4C4607-94DF-4477-BD87-277B0F8A4538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81C77A91-7D89-400E-BD7B-4BD40F178911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C77A91-7D89-400E-BD7B-4BD40F178911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C77A91-7D89-400E-BD7B-4BD40F178911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C77A91-7D89-400E-BD7B-4BD40F178911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF4C4607-94DF-4477-BD87-277B0F8A4538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF4C4607-94DF-4477-BD87-277B0F8A4538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF4C4607-94DF-4477-BD87-277B0F8A4538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF4C4607-94DF-4477-BD87-277B0F8A4538}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {268BDA19-074C-4357-BCFB-7B23AEB0FCAD}
+	EndGlobalSection
+EndGlobal
